@@ -12,6 +12,7 @@
   </head>
   <body>
     <!-- Navbar -->
+     <a href="login.php"></a>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">TicketPro</a>
@@ -144,3 +145,22 @@
     </script>
   </body>
 </html>
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Selamat Datang, Admin!!!!</h1>
+
+    <a href="login.php">Logout</a>
+
+    
+</body>
+</html> -->
